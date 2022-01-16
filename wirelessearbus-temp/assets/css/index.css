@@ -5567,3 +5567,35 @@ html.no-webp #ik8lkh {
         flex-direction: column;
     }
 }
+
+.h2-title{
+    text-align:center;
+    font-size: 39px;
+    color: #242424;
+    margin-top: 0px;
+    padding-top: 40px;
+
+}
+
+.cus-section-01{
+    background-color: #F2F2F2;
+    min-height: 400px;
+
+}
+
+.cus-section-01>p{
+    text-align:center;
+    -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
+    hyphens: manual;
+    color: #474747;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+    box-sizing: border-box;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
