@@ -5571,15 +5571,18 @@ html.no-webp #ik8lkh {
 .h2-title{
     text-align:center;
     font-size: 39px;
+    line-height: 1.5;
     color: #242424;
     margin-top: 0px;
     padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
 
 }
 
 .cus-section-01{
     background-color: #F2F2F2;
-    min-height: 400px;
+    min-height: 500px;
 
 }
 
