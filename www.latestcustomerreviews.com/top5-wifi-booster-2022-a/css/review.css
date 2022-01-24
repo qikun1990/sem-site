@@ -1644,7 +1644,7 @@ p.selling-point-item {
     height: 1.4rem;
 }
 
-.product__ribbon-textno {
+.product__ribbon-textno-a {
     color: #fff;
     position: absolute;
     bottom: -3.0em;
@@ -1656,6 +1656,20 @@ p.selling-point-item {
     border: none;
     text-shadow: 0.05em 0.05em 2px rgb(0 0 0 / 20%);
 }
+
+.product__ribbon-textno-b {
+    color: #fff;
+    position: absolute;
+    bottom: -3.0em;
+    left: -1.5em;
+    font-size: 1.4em;
+    font-weight: 500;
+    padding: 0.5em 1em;
+    height: 2.4em;
+    border: none;
+    text-shadow: 0.05em 0.05em 2px rgb(0 0 0 / 20%);
+}
+
 .product__ribbon {
     position: relative;
     z-index: 10;
