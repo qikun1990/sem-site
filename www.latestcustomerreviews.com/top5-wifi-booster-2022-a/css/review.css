@@ -1629,8 +1629,8 @@ p.selling-point-item {
 .product__ribbon-title-verify {
     font-size: 1.4em;
     position: relative;
-    top: 0;
-    left: 0.5em;
+    top: -1em;
+    left: 0em;
     color: #72B667;
     font-weight: 700;
 }
